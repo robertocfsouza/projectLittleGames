@@ -13,4 +13,3 @@ Adib Said Cavalero de Macedo Aboul Hosn
 Professor: Pedro Girotto
 Institution: CESUPA
 Class: EC1MA
-Instition: CESUPA
